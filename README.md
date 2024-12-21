@@ -48,4 +48,5 @@ The objective of this project is to predict the selling price of cars based on t
  - Gradient Boosting Regressor
 
 **About CodeAlpha**
-This project is part of Task 2 for the CodeAlpha internship program.
+ 
+ This project is part of Task 2 for the CodeAlpha internship program.
